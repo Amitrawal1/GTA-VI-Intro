@@ -1,12 +1,46 @@
-# React + Vite
+# 🎮 GTA-VI Intro Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **GTA-VI Intro** – a fan-made animated intro built using React + Vite, inspired by the vibrant world of GTA VI.
 
-Currently, two official plugins are available:
+> 🔥 Fully responsive | 🎧 Music embedded | 🎬 Smooth animations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📽️ Demo Video
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+▶️ **Watch it in action:**  
+[![GTA VI Intro Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+> Replace `YOUR_VIDEO_ID` with the actual YouTube video ID.
+
+---
+
+## 🌐 Live Preview
+
+🌍 [Click here to visit the site](https://your-username.github.io/GTA-VI-Intro)  
+> *(If deployed on GitHub Pages or Vercel)*
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Animated Intro |
+|----------|----------------|
+| ![Home](./screenshots/home.png) | ![Intro](./screenshots/intro.png) |
+
+> Save images in a `/screenshots` folder and update paths if needed.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with Vite)
+- **HTML5 / CSS3**
+- **JavaScript (ES6)**
+- **SVG animations**
+- **Custom Audio**
+
+---
+
+## 📁 Folder Structure
+
